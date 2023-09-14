@@ -1,0 +1,9 @@
+huggingface-hub==0.16.4
+langchain==0.0.229
+langchainplus-sdk==0.0.20
+openai==0.27.8
+tiktoken==0.4.0
+torch==2.0.1
+tqdm==4.65.0
+transformers==4.30.2
+reportlab==4.0.4

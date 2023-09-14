@@ -1,0 +1,29 @@
+[I 2023-09-12 00:46:10.854 LabApp] JupyterLab extension loaded from /home/nouman/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-09-12 00:46:10.854 LabApp] JupyterLab application directory is /home/nouman/anaconda3/share/jupyter/lab
+[I 00:46:10.860 NotebookApp] Serving notebooks from local directory: /home/nouman/Downloads/Generative AI Task/generative AI Code/cogent_labs_acessment
+[I 00:46:10.860 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 00:46:10.860 NotebookApp] http://localhost:8888/?token=202f39e6903c14cd8c21d18706c316abcf431408c21fe92a
+[I 00:46:10.860 NotebookApp]  or http://127.0.0.1:8888/?token=202f39e6903c14cd8c21d18706c316abcf431408c21fe92a
+[I 00:46:10.860 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 00:46:10.889 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nouman/.local/share/jupyter/runtime/nbserver-14641-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=202f39e6903c14cd8c21d18706c316abcf431408c21fe92a
+     or http://127.0.0.1:8888/?token=202f39e6903c14cd8c21d18706c316abcf431408c21fe92a
+[I 00:46:18.959 NotebookApp] Kernel started: 03a52bd0-f8a3-4082-aa48-fe308ca329e6, name: data_extraction
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 00:47:57.048 NotebookApp] Saving file at /Summarization-Assignment.ipynb
+[I 00:47:57.232 NotebookApp] Saving file at /Summarization-Assignment.ipynb
+[I 00:47:57.409 NotebookApp] Saving file at /Summarization-Assignment.ipynb
+[I 00:48:18.943 NotebookApp] Saving file at /Summarization-Assignment.ipynb
+[I 00:48:59.486 NotebookApp] Saving file at /Summarization-Assignment.ipynb
+[I 00:48:59.698 NotebookApp] Saving file at /Summarization-Assignment.ipynb
+[I 00:48:59.862 NotebookApp] Saving file at /Summarization-Assignment.ipynb
+[I 00:50:22.087 NotebookApp] Saving file at /Summarization-Assignment.ipynb
+[I 00:50:22.292 NotebookApp] Saving file at /Summarization-Assignment.ipynb
+[I 00:50:24.440 NotebookApp] Starting buffering for 03a52bd0-f8a3-4082-aa48-fe308ca329e6:dec815456934443aa62ad88e39aa8e09
