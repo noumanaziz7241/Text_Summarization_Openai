@@ -1,4 +1,4 @@
-# cogent_labs_acessment
+# Text summarization using Openai
 ### Python Setup
 - Install pip using [guide](https://pip.pypa.io/en/stable/installation/)
 - Install virtual enviornment using this [guide](https://virtualenv.pypa.io/en/latest/index.html)
