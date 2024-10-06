@@ -9,9 +9,11 @@
      `
      python -m venv summarization_env
      `
+
      `
      source summarization_env/bin/activate
      `
+     respectively.
 - Install Jupyter Notebook or VS Code.
 - Use OpenAI API Key by either environment variable of OS module or by using dotenv file.
 - Run `pip install -r requirements.txt`
