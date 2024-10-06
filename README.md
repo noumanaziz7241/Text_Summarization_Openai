@@ -5,9 +5,10 @@
 - Create and Activate virtual envoirnment using these commands respectively.
   1. firstly install virtualenv using this command `pip install virtualenv`
   2. Then create and activate Virtual environment using these commands.
-     In Linux OS
      `
      python -m venv summarization_env
+     `
+     `
      source summarization_env/bin/activate
      `
 - Install Jupyter Notebook or VS Code.
