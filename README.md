@@ -6,4 +6,4 @@
 - Install Jupyter Notebook.
 - Use OpenAI API Key by either environment variable of OS module or by using dotenv file.
 - Run `pip install -r requirements.txt`
-- Run Jupyter Notebook File cell by cell.
+- Run Jupyter Notebook File i.e. `Summarizatio-Openai.ipynb` cell by cell.
